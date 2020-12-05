@@ -2,7 +2,6 @@
 
 int main()
 {
-	printf("aaaaaa\r\n");
-	printf("赶紧的");
+	printf("hello world\r\n");
 	return 1;
 }
